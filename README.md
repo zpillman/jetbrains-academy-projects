@@ -1,2 +1,5 @@
 # jetbrains-academy-projects
-Contains all code created from the jetbrains academy projects organized by folders for each language
+Contains all code created from the jetbrains academy projects.
+## Python Projects
+### CoffeeMachine
+First project, basic OOP principles and command line interaction with the user. 
